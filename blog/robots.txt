@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://the-algo-desk.github.io/sitemap.txt
